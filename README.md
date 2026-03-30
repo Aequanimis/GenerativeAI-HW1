@@ -15,3 +15,4 @@ I first created the repository and set up the local project folder with the requ
 - Update README with workflow summary and video link
 
 ## Video link
+https://youtu.be/7FHLswLKZbI
