@@ -15,6 +15,3 @@ I first created the repository and set up the local project folder with the requ
 - Update README with workflow summary and video link
 
 ## Video link
-
-Add your unlisted YouTube or Vimeo link here:
-[Video Link]
